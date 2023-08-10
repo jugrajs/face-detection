@@ -37,6 +37,7 @@ python3 face_detection.py
 
 - Python
 - OpenCV
+- Camera
 
 ## Usage
 
