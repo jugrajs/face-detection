@@ -1,7 +1,7 @@
 import cv2
 
 
-face_cascade= cv2.CascadeClassifier('path/haarcascade_frontalface_default.xml')
+face_cascade= cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 
 def localize_face(img, sf=1.2, nb=5):
